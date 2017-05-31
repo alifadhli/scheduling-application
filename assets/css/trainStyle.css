@@ -1,0 +1,69 @@
+body {
+	background-image: url(https://hdwallsource.com/img/2014/5/free-train-track-wallpaper-37964-38834-hd-wallpapers.jpg);
+	background-repeat: no-repeat;
+	font-family: sans-serif;
+	background-size: cover;
+	
+}
+
+.jumbotron {
+	padding-top: 15px; 
+	background-image: url(https://hdwallsource.com/img/2014/5/train-wallpaper-7827-8120-hd-wallpapers.jpg);
+	background-position: center;
+	background-size: 100%;
+	min-width: 630px;
+
+}
+
+#logo {
+	width: 15%;
+	height: auto;
+}
+
+.panel > .panel-heading, .btn {
+	background-color: rgb(33, 101, 159);
+	text-align: center;
+}
+
+.form-group {
+	display: inline-block;
+	text-align: center;
+}
+
+.panel  {
+	min-width: 630px;
+	background-color: transparent;
+}
+
+
+#form-center {
+	width: 630px;
+	display: block;
+	padding-top: 10px;
+	margin: 0 auto;
+}
+
+input {
+	margin-top: 10px;
+}
+
+.table-striped {
+	text-align: center;
+}
+
+th {
+	text-align: center;
+}
+
+.footer {
+	width: 100%;
+	
+	padding-top: 3px;
+	background-color: #174375;
+	text-align: center;
+	color: #fff;
+	border-bottom-left-radius: 1em;
+	border-bottom-right-radius: 1em;
+	min-width: 630px;
+
+}
